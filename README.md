@@ -24,7 +24,6 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
-- [collections](https://docs.python.org/2/library/collections.html)
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
